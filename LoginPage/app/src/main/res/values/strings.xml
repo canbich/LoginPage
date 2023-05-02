@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginPage</string>
+    <string name="title_activity_giris_yap">giris_yap</string>
+</resources>
